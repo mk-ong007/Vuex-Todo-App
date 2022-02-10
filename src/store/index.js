@@ -7,9 +7,29 @@ export default new Vuex.Store({
   state: {
     todos: [
       {
-        name: "learning vue.js",
+        name: "Set your goal",
         completed: false
-      }
+      },
+      {
+        name: "Programmer",
+        completed: false
+      },
+      {
+        name: "Gym and lunch",
+        completed: false
+      },
+      {
+        name: "Learning",
+        completed: false
+      },
+      {
+        name: "Family time",
+        completed: false
+      },
+      {
+        name: "Brain work",
+        completed: false
+      },
     ]
   },
   getters: {
