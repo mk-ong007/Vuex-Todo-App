@@ -11,7 +11,7 @@ export default new Vuex.Store({
         completed: false
       },
       {
-        name: "Programmer",
+        name: "Programming",
         completed: false
       },
       {
